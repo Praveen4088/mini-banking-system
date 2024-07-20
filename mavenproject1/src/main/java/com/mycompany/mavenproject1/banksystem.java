@@ -9,7 +9,7 @@ import javafx.stage.Stage;
 import javafx.event.*;
 import javafx.scene.control.Alert.AlertType;
 /**
-* @author KPK
+* @author praveen
 */
 public class banksystem extends Application {
 
